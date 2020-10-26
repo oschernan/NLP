@@ -1,1 +1,1 @@
-# Stock Sentiment
+# Stock Sentiment Project
